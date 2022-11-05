@@ -2,6 +2,8 @@
 
 ⚠ **Don't forget to modify this README.md file to add instructions to execute/run your source code.**
 
+keep all the files under one folder.
+
 kindly give attention to this note for better usage of prototype.
 
 STEP 1: At first, you have to open index.html from the submitted folder..
