@@ -1,0 +1,5 @@
+function cl(){
+      
+    window.close();
+
+}
